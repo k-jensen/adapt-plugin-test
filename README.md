@@ -1,0 +1,1 @@
+# adapt-plugin-test

@@ -1,0 +1,13 @@
+{
+  "name": "adapt-test",
+  "version": "0.0.2",
+  "framework": ">=3.3",
+  "homepage": "https://github.com/k-jensen/adapt-test",
+  "issues": "",
+  "displayName": "Test",
+  "component": "test",
+  "description": "A simple core contributed test component",
+  "main": "/js/adapt-test.js",
+  "keywords": ["adapt-plugin", "adapt-component"],
+  "license": "GPLv3"
+}
